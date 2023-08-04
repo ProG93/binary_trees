@@ -1,4 +1,4 @@
-#include "binary_tree.h"
+#include "binary_trees.h"
 /**
  * binary_is_tree_root - check if tree is root
  * @parent: parent of new tree
